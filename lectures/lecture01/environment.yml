@@ -1,0 +1,51 @@
+name: gdl
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  # -------------------------
+  # Core Python
+  # -------------------------
+  - python=3.10
+
+  # -------------------------
+  # Numerical stack
+  # -------------------------
+  - numpy
+  - scipy
+  - matplotlib
+
+  # -------------------------
+  # PyTorch (CPU-first, GPU optional)
+  # -------------------------
+  - pytorch>=2.0
+  - torchvision
+  - torchaudio
+
+  # -------------------------
+  # Jupyter ecosystem
+  # -------------------------
+  - jupyterlab
+  - notebook
+  - ipykernel
+
+  # -------------------------
+  # Quality-of-life
+  # -------------------------
+  - tqdm
+  - ipython
+
+  # -------------------------
+  # Optional but useful
+  # -------------------------
+  - scikit-learn
+
+  # -------------------------
+  # Pip-only packages (none for Lecture 1)
+  # -------------------------
+  - pip
+  - pip:
+      # keep empty for now
+      []
