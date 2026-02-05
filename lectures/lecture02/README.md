@@ -29,4 +29,4 @@ all lecture notebooks directly in Colab using the badge.
 ### Run in Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/mae576-gdl/gdl-course-material/blob/main/lectures/lecture02/lecture02_symmetry_design_constraint.ipynb)
+(https://colab.research.google.com/github/mae576-gdl/gdl-course-materials/blob/main/lectures/lecture02/lecture02_symmetry_design_constraint.ipynb)
