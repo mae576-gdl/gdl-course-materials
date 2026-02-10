@@ -1,0 +1,9 @@
+name: gdl-lecture3
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - jupyter
+  - ipywid
