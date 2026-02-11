@@ -1,9 +1,11 @@
-name: gdl-lecture3
+name: gdl
 channels:
   - conda-forge
 dependencies:
   - python=3.11
   - numpy
+  - scipy
   - matplotlib
-  - jupyter
-  - ipywid
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
