@@ -37,6 +37,7 @@ all lecture notebooks directly in Colab using the badge.
 
 ### Run in Colab
 
-[![Open In Colab](https://colab.research.google.com/github/mae576-gdl/gdl-course-materials/blob/main/lectures/lecture04/lecture04_representations_and_feature_geometry.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/mae576-gdl/gdl-course-materials/blob/main/lectures/lecture04/lecture04_representations_and_feature_geometry.ipynb
 )
 
